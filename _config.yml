@@ -1,0 +1,4 @@
+title: My Website
+theme: minima
+exclude:
+- README.md
